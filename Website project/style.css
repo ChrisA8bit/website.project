@@ -5,8 +5,8 @@ padding: 0%;
  }
  
  body{
- background-color: #B5B6BB;   
-
+  background-image: linear-gradient( rgb(222, 218, 218), grey)
+    ;
 
 }
 
@@ -25,6 +25,7 @@ h1 {
     display: flex;
     justify-content: center;
     font-size: 4rem;
+    padding-bottom: 15px;
   }
 #navbar{
     font-family: "Pacifico", cursive;
@@ -60,7 +61,7 @@ background-color: #7AA36C;
     justify-content: center;
     flex-wrap: wrap;
     font-size: 1.5rem;
- 
+   
 
 
 
